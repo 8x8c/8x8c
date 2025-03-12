@@ -15,4 +15,4 @@
 
 
 
-![pepe1](https://github.com/user-attachments/assets/b94b0e1a-d4ba-4b42-9e30-f397d312c3cb)
+![a1500x500](https://github.com/user-attachments/assets/b76d2b1b-d314-4dce-85f2-b5869673db7d)
