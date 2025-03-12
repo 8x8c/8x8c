@@ -1,4 +1,10 @@
 
+![600x200](https://github.com/user-attachments/assets/62c9ad92-0790-459d-858d-c7c0afd57b26)
+
+
+
+
+
 
 
 
@@ -6,11 +12,6 @@
 
 
 
-![git](https://github.com/user-attachments/assets/5ab02b15-9ddc-46fb-84ac-eb09b0ab65f8)
-
-
-![pepe1](https://github.com/user-attachments/assets/88e69b42-a671-44bf-a0f2-2bfb910303cb)
 
 
 
-![600x200](https://github.com/user-attachments/assets/62c9ad92-0790-459d-858d-c7c0afd57b26)
