@@ -7,7 +7,6 @@
 
 
 
-![600x200](https://github.com/user-attachments/assets/62c9ad92-0790-459d-858d-c7c0afd57b26)
 
 
 
@@ -18,8 +17,6 @@
 
 
 
-
-![a2](https://github.com/user-attachments/assets/6f920b5a-72e0-4d80-afac-4d1837980205)
 
 
 
