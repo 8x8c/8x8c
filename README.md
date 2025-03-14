@@ -2,7 +2,7 @@
 
 https://www.rust-lang.org/  The rust site. 
 
-https://crates.io/   The other ruust site. 
+https://crates.io/   The other rust site. 
 
 
  Objectively, for today,  Rust is god. 
