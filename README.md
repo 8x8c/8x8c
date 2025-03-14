@@ -33,7 +33,7 @@ https://crates.io/   The other rust site.
 
 A focus on high security / extremely user friendly encryption apps. NOTE- BECAUSE the apps all use atomic file overwrite, in order to be safe on mac or windows some slight code changes would be required. As such, the apps here are for LINUX. If you are on windows or mac, feed the code to Ai and tell it you are on mac or windows and need atomic file operation updated - or-  use apps from Group 
 
-
+Group 3 has 3 versions of xcrypt - each version is a different algo. 
 
 https://github.com/8x8c/xcrypt-AES-256-GCM-SIV  High security AES-256-GCM-SIV  file encryption for LINUX. 
 
