@@ -1,5 +1,10 @@
 ![a1500x500](https://github.com/user-attachments/assets/b76d2b1b-d314-4dce-85f2-b5869673db7d)
 
+https://www.rust-lang.org/  The rust site. 
+
+https://crates.io/   The other ruust site. 
+
+
  Objectively, for today,  Rust is god. 
 
  Rust apps in this repo are as simple as possible. 2 files, cargo.toml and main.rs !! Incredibly easy to feed to Ai in order to audit, incredibly easy to modify. The crates.io deps change version numbers, Rust itself gets updates with time. So a ONE SIMPLE main.rs file is easier to update and upgrade in the future. 
