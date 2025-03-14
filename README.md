@@ -1,5 +1,7 @@
 ![a1500x500](https://github.com/user-attachments/assets/b76d2b1b-d314-4dce-85f2-b5869673db7d)
 
+It is not about hype! It should not be about you wanting to hanging on to your C / C++ code because you spend 15 years learning it!  Get real. Objectively, for today,  Rust is god. You either want the best or you do not. Learn to discern! 
+ 
  This repo has lots of no-nonsense rust encryption apps and information. If you are interested in rust encryption apps, save the following html code to your pc and use it for reference. 
 
 https://github.com/8x8c/Crypto/blob/main/encryption.html 
