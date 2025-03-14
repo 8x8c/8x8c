@@ -2,7 +2,7 @@
 
  Objectively, for today,  Rust is god. 
 
- Rust apps in this repo are as simple as possible. 2 files, cargo.toml and main.rs !! Incredibly easy to feed to Ai in order to audit, incredibly easy to modify. The crates.io deps change version numbers, Rust itself gets updates with time. So a SIMPLE 1 main.rs file is easier to update and upgrade in the future. 
+ Rust apps in this repo are as simple as possible. 2 files, cargo.toml and main.rs !! Incredibly easy to feed to Ai in order to audit, incredibly easy to modify. The crates.io deps change version numbers, Rust itself gets updates with time. So a ONE SIMPLE main.rs file is easier to update and upgrade in the future. 
  
 
 
