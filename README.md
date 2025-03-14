@@ -24,7 +24,7 @@ https://github.com/8x8c/Crypto/blob/main/encryption.html
 
 
 # Group 3
-A focus on very user friendly encryption apps. 
+A focus on high security / very user friendly encryption apps. 
 
 
 https://github.com/8x8c/xcrypt High security file encryption. 
