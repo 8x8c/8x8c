@@ -5,7 +5,7 @@
 
 # Group 3
 
-Veering off from the generalized approach of Group 2 apps. Simple apps that do ONE thing- encrypt a file in place with atomic overwrites. Extreme simple to use- not a bunch of flags that are hard to remember. Start by reading this https://github.com/8x8c/Crypto/blob/main/encryption.html from a web browser. 
+Veering off from the generalized approach of Group 2 apps. Simple apps that do ONE thing- encrypt a file in place with atomic overwrites. Extreme simple to use- not a bunch of flags that are hard to remember. Start by reading this https://github.com/8x8c/Crypto/blob/main/encryption.html 
 
 
 
