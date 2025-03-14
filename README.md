@@ -34,6 +34,8 @@ https://github.com/8x8c/xcrypt High security Xchacha20-Poly1305 file encryption 
 https://github.com/8x8c/xcrypt_aes High security AES-GCM  file encryption for LINUX. 
 
 
+https://github.com/8x8c/xcrypt-AES-SIV   High security AES-GCM-SIV  file encryption for LINUX. 
+
 
 
 # Group 2 
