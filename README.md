@@ -25,7 +25,7 @@
 
 
 # Group 3
-A focus on high security / very user friendly encryption apps. NOTE- BECAUSE the apps all use atomic file overwrite, in order to be safe on mac or windows some slight code changes would be needed. As such, the apps here are for LINUX. If you are on windows or mac, use apps from Group 2. 
+A focus on high security / very user friendly encryption apps. NOTE- BECAUSE the apps all use atomic file overwrite, in order to be safe on mac or windows some slight code changes would be required. As such, the apps here are for LINUX. If you are on windows or mac, use apps from Group 2. 
 
 
 https://github.com/8x8c/xcrypt High security Xchacha20-Poly1305 file encryption for LINUX. 
