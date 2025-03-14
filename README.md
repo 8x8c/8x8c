@@ -1,7 +1,6 @@
 ![a1500x500](https://github.com/user-attachments/assets/b76d2b1b-d314-4dce-85f2-b5869673db7d)
 
-https://github.com/8x8c/Crypto/blob/main/encryption.html copy the html code and run it from your pc in a any browser. 
-
+https://github.com/8x8c/Crypto/blob/main/encryption.html 
 
 # Group 3
 A focus on very user friendly encryption apps. 
