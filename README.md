@@ -29,7 +29,7 @@ https://github.com/8x8c/Crypto/blob/main/encryption.html
 A focus on high security / very user friendly encryption apps. 
 
 
-https://github.com/8x8c/xcrypt High security file encryption for LINUX. 
+https://github.com/8x8c/xcrypt High security Xchacha20-Poly1305 file encryption for LINUX. 
 
 https://github.com/8x8c/xcrypt_aes High security AES-GCM  file encryption for LINUX. 
 
