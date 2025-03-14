@@ -1,6 +1,6 @@
 ![a1500x500](https://github.com/user-attachments/assets/b76d2b1b-d314-4dce-85f2-b5869673db7d)
 
-If you are interested in rust encryption apps, save the following html code to your pc and use it for reference. 
+Online forums go in circles when talking about encryption apps. This repo has lots of no-nonsense rust encryption apps and information. If you are interested in rust encryption apps, save the following html code to your pc and use it for reference. 
 
 https://github.com/8x8c/Crypto/blob/main/encryption.html 
 
