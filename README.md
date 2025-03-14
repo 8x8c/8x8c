@@ -2,9 +2,6 @@
 
  Objectively, for today,  Rust is god. 
  
- If you are interested in rust encryption apps, save the following html code to your pc and use it for reference. 
-
-https://github.com/8x8c/Crypto/blob/main/encryption.html 
 
 
 
