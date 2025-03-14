@@ -2,7 +2,7 @@
 
  Objectively, for today,  Rust is god. You either want the best or you do not. Learn to discern! 
  
- This repo has lots of no-nonsense rust encryption apps and information. If you are interested in rust encryption apps, save the following html code to your pc and use it for reference. 
+ If you are interested in rust encryption apps, save the following html code to your pc and use it for reference. 
 
 https://github.com/8x8c/Crypto/blob/main/encryption.html 
 
