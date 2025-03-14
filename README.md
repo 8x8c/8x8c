@@ -35,7 +35,7 @@ A focus on high security / extremely user friendly encryption apps. NOTE- BECAUS
 
 
 
-https://github.com/8x8c/xcrypt-AES-SIV   High security AES-256-GCM-SIV  file encryption for LINUX. 
+https://github.com/8x8c/xcrypt-AES-256-GCM-SIV  High security AES-256-GCM-SIV  file encryption for LINUX. 
 
 https://github.com/8x8c/xcrypt High security Xchacha20-Poly1305 file encryption for LINUX. 
 
