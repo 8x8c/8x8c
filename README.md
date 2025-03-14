@@ -2,6 +2,21 @@
 
 
 
+
+# Group 3
+
+Veering off from the generalized approach of Group 2 apps. Simple apps that do ONE thing- encrypt a file in place with atomic overwrites. Extreme simple to use- not a bunch of flags that are hard to remember. Start by reading this 
+
+
+
+
+
+
+
+# Group 2 
+Very nice no-nonsense encryption apps. Each is only 2 files, cargo.toml and main.rs !! 
+
+
 https://github.com/8x8c/xchacha A great encryption app made with Rust.
 
 https://github.com/8x8c/AES AES-256-GCM encryption app made with Rust.
@@ -25,7 +40,8 @@ https://github.com/8x8c/filecrypt AES-256-GCM + password-based key derived with 
 https://github.com/8x8c/Feistel-Network-File-Encryption  A basic encryption app
 
 
-
+# Group1 
+ Archived repos. Lots of imageboards and simple crypto apps. Older stuff, there is some good code in there tho. 
 
 
 
