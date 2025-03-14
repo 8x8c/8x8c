@@ -1,6 +1,6 @@
 ![a1500x500](https://github.com/user-attachments/assets/b76d2b1b-d314-4dce-85f2-b5869673db7d)
 
- Objectively, for today,  Rust is god. You either want the best or you do not. Learn to discern! 
+ Objectively, for today,  Rust is god. 
  
  If you are interested in rust encryption apps, save the following html code to your pc and use it for reference. 
 
