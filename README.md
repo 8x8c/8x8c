@@ -22,9 +22,7 @@ https://crates.io/   The other rust site.
 
 
 
-# Group 4
-
-will be here in a bit, working of experimental algo
+# Group 4  experimental - Post Quantum Crypto and others
 
 
 
