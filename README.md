@@ -39,7 +39,7 @@ Group 3 has 3 versions of xcrypt - each version is a different algo.
 
 https://github.com/8x8c/xcrypt-AES-256-GCM-SIV  High security AES-256-GCM-SIV  file encryption for LINUX. 
 
-https://github.com/8x8c/xcrypt High security Xchacha20-Poly1305 file encryption for LINUX. 
+https://github.com/8x8c/xcrypt-XChaCha20-Poly1305 High security Xchacha20-Poly1305 file encryption for LINUX. 
 
 https://github.com/8x8c/xcrypt_aes High security AES-GCM  file encryption for LINUX. 
 
