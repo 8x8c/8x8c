@@ -22,7 +22,9 @@ https://crates.io/   The other rust site.
 
 
 
-# Group 4  experimental - Post Quantum Crypto and others in dev. Some of the examples here will use algos so modern that there are not even many libraries yet. 
+# Group 4  experimental - Post Quantum Crypto and others in dev. 
+
+Some of the examples here will use algos so modern or rare that there are not even many libraries yet. 
 
 https://github.com/8x8c/threefish-512  Encryption and decryption using Threefish-512 in CTR mode / HMAC-SHA512 / Argon2id.
 
