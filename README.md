@@ -24,6 +24,7 @@ https://crates.io/   The other rust site.
 
 # Group 4  experimental - Post Quantum Crypto and others in dev
 
+https://github.com/8x8c/threefish-512
 
 https://github.com/8x8c/tcrypt in dev, a custom algo
 
