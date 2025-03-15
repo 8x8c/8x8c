@@ -28,7 +28,7 @@ Different working Threefish-512 file encryption apps.
 
  
 
-https://github.com/8x8c/threefish-512  Version 1 Encryption and decryption using Threefish-512 in CTR mode / HMAC-SHA512 / Argon2id.
+https://github.com/8x8c/threefish-512  Version 1 Threefish-512 in CTR mode / HMAC-SHA512 / Argon2id.
 
 
 
