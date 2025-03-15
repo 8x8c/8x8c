@@ -24,7 +24,24 @@ https://crates.io/   The other rust site.
 
 # Group 4  experimental - Post Quantum Crypto and others in dev
 
-https://github.com/8x8c/threefish-512
+https://github.com/8x8c/threefish-512 Threefish-512 in CTR mode.
+
+
+Encryption and decryption using Threefish-512 in CTR mode / HMAC-SHA512 / Argon2id.
+
+Integrity verification via HMAC-SHA512.
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://github.com/8x8c/tcrypt in dev, a custom algo
 
