@@ -33,7 +33,7 @@ will be here in a bit, working of experimental algo
 
 # Group 3
 
-A focus on high security / extremely user friendly encryption apps. NOTE- BECAUSE the apps all use atomic file overwrite, in order to be safe on mac or windows some slight code changes would be required. As such, the apps here are for LINUX. If you are on windows or mac, feed the code to Ai and tell it you are on mac or windows and need atomic file operation updated - or-  use apps from Group 
+A focus on high security / extremely user friendly encryption apps. NOTE- BECAUSE the apps all use atomic file overwrite, in order to be safe on mac or windows some slight code changes would be required. As such, the apps here are for LINUX. If you are on windows or mac, feed the code to Ai and tell it you are on mac or windows and need atomic file operation updated - or-  use apps from Group 2.
 
 Group 3 has 3 versions of xcrypt - each version is a different algo. 
 
