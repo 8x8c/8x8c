@@ -24,7 +24,7 @@ https://crates.io/   The other rust site.
 
 # Group 4  Threefish-512 
 
-Different working Threefish-512 file encryption apps. 
+Different working Threefish-512 file encryption apps. This one is a bit tough, as there is not much out there yet, as Threefish-512 is not so popular. It will take a long time to have the best Threefish-512  apps. The lower versions of the apps will have to be custom made, for now. 
 
 
 
@@ -32,7 +32,7 @@ Different working Threefish-512 file encryption apps.
 https://github.com/8x8c/threefish-512-v2  Version 2 
  
 
-https://github.com/8x8c/threefish-512  Version 1 Threefish-512 in CTR mode / HMAC-SHA512 / Argon2id.
+https://github.com/8x8c/threefish-512  Version 1 Threefish-512 in CTR mode / HMAC-SHA512 / Argon2id. 
 
 
 
