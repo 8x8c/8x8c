@@ -57,7 +57,7 @@ https://github.com/8x8c/xcrypt_aes High security AES-GCM  file encryption for LI
 
 
 # Group 2 
-Very nice no-nonsense encryption apps. Each is only 2 files, cargo.toml and main.rs !! 
+Very nice no-nonsense encryption apps. Each is only 2 files, cargo.toml and main.rs !! As time goes by, the apps will still be good but make sure to check crates.io for updates to the deps in cargo.toml and then have ai make modifications to main.rs in order to properly implement the new deps. 
 
 
 https://github.com/8x8c/xchacha A great encryption app made with Rust.
