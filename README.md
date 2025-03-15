@@ -22,14 +22,16 @@ https://crates.io/   The other rust site.
 
 
 
-# Group 4  experimental - Post Quantum Crypto + others in dev. 
+# Group 4  Threefish-512 
 
-Some of the examples here will use algos so modern or rare that there are not even many libraries yet. 
+Different working Threefish-512 file encryption apps. 
 
-https://github.com/8x8c/threefish-512  Encryption and decryption using Threefish-512 in CTR mode / HMAC-SHA512 / Argon2id.
+ 
+
+https://github.com/8x8c/threefish-512  Version 1 Encryption and decryption using Threefish-512 in CTR mode / HMAC-SHA512 / Argon2id.
 
 
-https://github.com/8x8c/tcrypt in dev, a custom algo
+
 
 
 
