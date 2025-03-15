@@ -15,9 +15,14 @@ https://crates.io/   The other rust site.
 
 
 
+# Group 5- Serpent 
 
 
 
+
+
+
+https://github.com/8x8c/basilisk  ONE serpent file encryption app on github at the time i checked! I made a fork of it. It compiles and works. 
 
 
 
