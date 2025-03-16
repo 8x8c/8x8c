@@ -15,16 +15,6 @@ https://crates.io/   The other rust site.
 
 
 
-# Group 5- Serpent Encryption Algo
-
-
-
-
-
-
-https://github.com/8x8c/basilisk  ONE rust serpent app on github at the time i checked! I made a fork of it. It compiles and works. Even Ai has a hard time making a serpent app in rust cli- might have to wait till ai gets better.  
-
-
 
 
 # Group 4  Threefish-512 
