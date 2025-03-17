@@ -16,7 +16,7 @@ Here are some groups- (Some repos are not in any group)
 
 # Group 5 Serpent 
 
-
+https://github.com/8x8c/Serpent-1  First working app! This one is in pure rust. (no deps) 
 
 https://github.com/8x8c/basilisk  I forked the only working serpent app i could find! 
 
