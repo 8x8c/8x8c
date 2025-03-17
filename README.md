@@ -16,6 +16,10 @@ Here are some groups- (Some repos are not in any group)
 
 # Group 5 Serpent 
 
+NOTE:: Serpent encryption apps in Rust are NOT easy! No dev was done when AES beat out the Serpent algo. Nonetheless, Serpent is an interesting algo, in time i will have great serpent apps. 
+
+
+
 https://github.com/8x8c/Serpent-1  First working app! This one is in pure rust. (no deps) 
 
 https://github.com/8x8c/basilisk  I forked the only working serpent app i could find! 
