@@ -11,7 +11,7 @@ https://crates.io/   The other rust site.
  
 
 
-Here are some groups- (Some repos are not in any groups)
+Here are some groups- (Some repos are not in any group)
 
 
 
