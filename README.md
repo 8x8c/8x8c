@@ -13,6 +13,10 @@ https://crates.io/   The other rust site.
 
 Here are some groups- (Some repos are not in any group)
 
+# Group 6
+
+https://github.com/8x8c/dcrypt Double crypt.
+
 
 # Group 5 Serpent 
 
